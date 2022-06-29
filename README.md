@@ -1,3 +1,7 @@
-# Completed Project: Handling User Input
+# SwiftUi tutorials  first  
 
-Explore the completed project for the [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input) tutorial.
+ combining view 
+ list and navigation
+ handling user input 
+ json data source 
+ @State var control
